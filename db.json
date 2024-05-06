@@ -1,0 +1,266 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "date": "2019-12-01",
+      "description": "Paycheck from Bob's Burgers",
+      "category": "Income",
+      "amount": 1000
+    },
+    {
+      "id": "2",
+      "date": "2019-12-01",
+      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
+      "category": "Food",
+      "amount": -10.55
+    },
+    {
+      "id": "3",
+      "date": "2019-12-02",
+      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
+      "category": "Food",
+      "amount": -10.55
+    },
+    {
+      "id": "4",
+      "date": "2019-12-04",
+      "description": "Sunglasses, Urban Outfitters",
+      "category": "Fashion",
+      "amount": -24.99
+    },
+    {
+      "id": "5",
+      "date": "2019-12-06",
+      "description": "Venmo, Alice Pays you for Burrito",
+      "category": "Food",
+      "amount": 8.75
+    },
+    {
+      "id": "6",
+      "date": "2019-12-06",
+      "description": "Chipotle",
+      "category": "Food",
+      "amount": -17.59
+    },
+    {
+      "id": "7",
+      "date": "2019-12-07",
+      "description": "Birthday Check from Grandma",
+      "category": "Gift",
+      "amount": 50
+    },
+    {
+      "id": "8",
+      "date": "2019-12-09",
+      "description": "Lyft Ride",
+      "category": "Transportation",
+      "amount": -13.25
+    },
+    {
+      "id": "9",
+      "date": "2019-12-11",
+      "description": "Paycheck from Bob's Burgers",
+      "category": "Income",
+      "amount": 1000
+    },
+    {
+      "id": "10",
+      "date": "2019-12-16",
+      "description": "Tickets, Flatiron Multiplex Cinemas",
+      "category": "Entertainment",
+      "amount": -24
+    },
+    {
+      "id": "11",
+      "date": "2019-12-16",
+      "description": "MTA Vending Machine: MetroCard",
+      "category": "Transportation",
+      "amount": -116.39
+    },
+    {
+      "id": "12",
+      "date": "2019-12-17",
+      "description": "Venmo, Pay Roommate for Rent",
+      "category": "Housing",
+      "amount": -975
+    },
+    {
+      "id": "3423"
+    },
+    {
+      "id": "90d8",
+      "date": "2019-12-01",
+      "description": "xxxxxx",
+      "category": "Income",
+      "amount": 546473
+    },
+    {
+      "id": "0d8b",
+      "date": "",
+      "description": "yess",
+      "category": "pic",
+      "amount": "26"
+    },
+    {
+      "id": "794f",
+      "date": "2024-05-10",
+      "description": "trrr",
+      "category": "yu",
+      "amount": "65"
+    },
+    {
+      "id": "cf06",
+      "date": "2024-05-01",
+      "description": "hesss",
+      "category": "uueu",
+      "amount": "566"
+    },
+    {
+      "id": "0ffe",
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": ""
+    },
+    {
+      "id": "f804",
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": ""
+    },
+    {
+      "id": "f576",
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": ""
+    },
+    {
+      "id": "0df5",
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": ""
+    },
+    {
+      "id": "021f",
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": ""
+    },
+    {
+      "id": "d58a",
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": ""
+    },
+    {
+      "id": "bc08",
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": ""
+    },
+    {
+      "id": "2f09",
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": ""
+    },
+    {
+      "id": "e913",
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": ""
+    },
+    {
+      "id": "365a",
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": ""
+    },
+    {
+      "id": "79f9",
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": ""
+    },
+    {
+      "id": "627a",
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": ""
+    },
+    {
+      "id": "c881",
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": ""
+    },
+    {
+      "id": "da4d",
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": ""
+    },
+    {
+      "id": "67ad",
+      "date": "2024-04-30",
+      "description": "gosh",
+      "category": "yehjeh",
+      "amount": "70"
+    },
+    {
+      "id": "84af",
+      "date": "",
+      "description": "ryyr",
+      "category": "trjwt",
+      "amount": "67747"
+    },
+    {
+      "id": "5e54",
+      "date": "2024-05-04",
+      "description": "6ryey",
+      "category": "iuw ",
+      "amount": "33"
+    },
+    {
+      "id": "656b",
+      "date": "2024-05-02",
+      "description": "michael",
+      "category": "food",
+      "amount": "677"
+    },
+    {
+      "id": "4bff",
+      "date": "2019-12-01",
+      "description": "Paycheck from Bob's Burgers",
+      "category": "Income",
+      "amount": 1000
+    },
+    {
+      "id": "2eaa",
+      "date": "2019-12-01",
+      "description": "vfjqerhferkj",
+      "category": "Income",
+      "amount": 4587594
+    },
+    {
+      "id": "57f1",
+      "date": "2024-05-17",
+      "description": "books ",
+      "category": "catlery ",
+      "amount": "76"
+    }
+  ]
+}
